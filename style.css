@@ -1,0 +1,44 @@
+.warning{
+    background-color :rgb(0, 0, 0);
+    border: 2px ridge blue;
+    display:inline-block;
+    padding:2px;
+    
+    }
+.warning img 
+    
+
+.tier_pro{
+    display:flex;
+    flex-direction: column; 
+    max-width: auto; 
+    
+    
+}
+.container_entête{
+    background-color: antiquewhite;
+    display:inline-block;
+    display:flex;
+    flex-direction: row ;
+    text-align: center;
+
+
+}
+.container_propro{
+    display:inline-block;
+    text-align: left;
+    
+
+}
+.profil_pro{
+
+    background-color: beige;
+    line-height: 50px;
+    text-align: left;
+    
+    
+}
+.premier_text{
+    margin:50px;
+
+}
